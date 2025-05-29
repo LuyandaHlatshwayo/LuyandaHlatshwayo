@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning how to be a full stack developer
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me <a href="https://www.linkedin.com/in/luyanda-hlatshwayo-0a6793367
+- 📫 How to reach me <a href="https://www.linkedin.com/in/luyanda-hlatshwayo-0a6793367"></a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
